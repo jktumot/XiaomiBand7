@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/XiaomiBand7/static/css/main.5b5540ac.css",
+    "main.css": "/XiaomiBand7/static/css/main.ae8e148a.css",
     "main.js": "/XiaomiBand7/static/js/main.a26b8a75.js",
     "static/media/pic_1.png": "/XiaomiBand7/static/media/pic_1.d77a539d2bb314098440.png",
     "static/media/xiaomi_band_7.png": "/XiaomiBand7/static/media/xiaomi_band_7.1bb3436bf7a90c3d4497.png",
@@ -20,11 +20,11 @@
     "static/media/blisspro_heavy.otf": "/XiaomiBand7/static/media/blisspro_heavy.647cea6124df6d58ad98.otf",
     "static/media/blisspro_medium.otf": "/XiaomiBand7/static/media/blisspro_medium.4502de4a8e229f5dae57.otf",
     "index.html": "/XiaomiBand7/index.html",
-    "main.5b5540ac.css.map": "/XiaomiBand7/static/css/main.5b5540ac.css.map",
+    "main.ae8e148a.css.map": "/XiaomiBand7/static/css/main.ae8e148a.css.map",
     "main.a26b8a75.js.map": "/XiaomiBand7/static/js/main.a26b8a75.js.map"
   },
   "entrypoints": [
-    "static/css/main.5b5540ac.css",
+    "static/css/main.ae8e148a.css",
     "static/js/main.a26b8a75.js"
   ]
 }
