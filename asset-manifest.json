@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/XiaomiBand7/static/css/main.5b5540ac.css",
+    "main.js": "/XiaomiBand7/static/js/main.a26b8a75.js",
+    "static/media/pic_1.png": "/XiaomiBand7/static/media/pic_1.d77a539d2bb314098440.png",
+    "static/media/xiaomi_band_7.png": "/XiaomiBand7/static/media/xiaomi_band_7.1bb3436bf7a90c3d4497.png",
+    "static/media/sport.png": "/XiaomiBand7/static/media/sport.ca30a4001d5bb0a143ce.png",
+    "static/media/water.png": "/XiaomiBand7/static/media/water.260d1cff20f55d8da948.png",
+    "static/media/image_2.png": "/XiaomiBand7/static/media/image_2.2ce32477817b2cd35a06.png",
+    "static/media/100dials.png": "/XiaomiBand7/static/media/100dials.9c4e804023343ab84b03.png",
+    "static/media/centurygothic.ttf": "/XiaomiBand7/static/media/centurygothic.b194aa2bd524e2c973f7.ttf",
+    "static/media/xiaomi_pic_3.webp": "/XiaomiBand7/static/media/xiaomi_pic_3.187e29cd93d47826d0e3.webp",
+    "static/media/centurygothic_bold.ttf": "/XiaomiBand7/static/media/centurygothic_bold.861d22617fdfce5fc922.ttf",
+    "static/media/Xiaomi_pic_2.webp": "/XiaomiBand7/static/media/Xiaomi_pic_2.90164fc68ab7ad44b7f8.webp",
+    "static/media/oxigen.png": "/XiaomiBand7/static/media/oxigen.de0e7fa6a25fa271a7d2.png",
+    "static/media/image_4.png": "/XiaomiBand7/static/media/image_4.dc87f5737381a97be130.png",
+    "static/media/image_1.png": "/XiaomiBand7/static/media/image_1.bc5c6004208a853c9276.png",
+    "static/media/Xiaomi_pic_1.webp": "/XiaomiBand7/static/media/Xiaomi_pic_1.1de12ec2f8501cb87d1b.webp",
+    "static/media/image_3.png": "/XiaomiBand7/static/media/image_3.bc24c0b4cfeea196617c.png",
+    "static/media/blisspro_heavy.otf": "/XiaomiBand7/static/media/blisspro_heavy.647cea6124df6d58ad98.otf",
+    "static/media/blisspro_medium.otf": "/XiaomiBand7/static/media/blisspro_medium.4502de4a8e229f5dae57.otf",
+    "index.html": "/XiaomiBand7/index.html",
+    "main.5b5540ac.css.map": "/XiaomiBand7/static/css/main.5b5540ac.css.map",
+    "main.a26b8a75.js.map": "/XiaomiBand7/static/js/main.a26b8a75.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5b5540ac.css",
+    "static/js/main.a26b8a75.js"
+  ]
+}
