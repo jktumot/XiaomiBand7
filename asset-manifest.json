@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/XiaomiBand7/static/css/main.9f7bed76.css",
-    "main.js": "/XiaomiBand7/static/js/main.a26b8a75.js",
+    "main.css": "/XiaomiBand7/static/css/main.f7a23a36.css",
+    "main.js": "/XiaomiBand7/static/js/main.0ff969ba.js",
     "static/media/pic_1.png": "/XiaomiBand7/static/media/pic_1.d77a539d2bb314098440.png",
     "static/media/xiaomi_band_7.png": "/XiaomiBand7/static/media/xiaomi_band_7.1bb3436bf7a90c3d4497.png",
     "static/media/sport.png": "/XiaomiBand7/static/media/sport.ca30a4001d5bb0a143ce.png",
@@ -11,6 +11,7 @@
     "static/media/centurygothic.ttf": "/XiaomiBand7/static/media/centurygothic.b194aa2bd524e2c973f7.ttf",
     "static/media/xiaomi_pic_3.webp": "/XiaomiBand7/static/media/xiaomi_pic_3.187e29cd93d47826d0e3.webp",
     "static/media/centurygothic_bold.ttf": "/XiaomiBand7/static/media/centurygothic_bold.861d22617fdfce5fc922.ttf",
+    "static/media/Bg_100dials.webp": "/XiaomiBand7/static/media/Bg_100dials.9fc9de4212518468f202.webp",
     "static/media/Xiaomi_pic_2.webp": "/XiaomiBand7/static/media/Xiaomi_pic_2.90164fc68ab7ad44b7f8.webp",
     "static/media/oxigen.png": "/XiaomiBand7/static/media/oxigen.de0e7fa6a25fa271a7d2.png",
     "static/media/image_4.png": "/XiaomiBand7/static/media/image_4.dc87f5737381a97be130.png",
@@ -19,12 +20,17 @@
     "static/media/image_3.png": "/XiaomiBand7/static/media/image_3.bc24c0b4cfeea196617c.png",
     "static/media/blisspro_heavy.otf": "/XiaomiBand7/static/media/blisspro_heavy.647cea6124df6d58ad98.otf",
     "static/media/blisspro_medium.otf": "/XiaomiBand7/static/media/blisspro_medium.4502de4a8e229f5dae57.otf",
+    "static/media/3.webp": "/XiaomiBand7/static/media/3.df19a7b98943a0e7c499.webp",
+    "static/media/2.webp": "/XiaomiBand7/static/media/2.0366cfcbd04dd530cd4c.webp",
+    "static/media/5.webp": "/XiaomiBand7/static/media/5.0548fc14588b97c8d621.webp",
+    "static/media/4.webp": "/XiaomiBand7/static/media/4.7633c4d88f023e0294e0.webp",
+    "static/media/1.webp": "/XiaomiBand7/static/media/1.127d41ca3b418bc78703.webp",
     "index.html": "/XiaomiBand7/index.html",
-    "main.9f7bed76.css.map": "/XiaomiBand7/static/css/main.9f7bed76.css.map",
-    "main.a26b8a75.js.map": "/XiaomiBand7/static/js/main.a26b8a75.js.map"
+    "main.f7a23a36.css.map": "/XiaomiBand7/static/css/main.f7a23a36.css.map",
+    "main.0ff969ba.js.map": "/XiaomiBand7/static/js/main.0ff969ba.js.map"
   },
   "entrypoints": [
-    "static/css/main.9f7bed76.css",
-    "static/js/main.a26b8a75.js"
+    "static/css/main.f7a23a36.css",
+    "static/js/main.0ff969ba.js"
   ]
 }
